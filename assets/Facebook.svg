@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Icon/Social/Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.2387106,20 L13.2387106,12.7016912 L15.6885217,12.7016912 L16.0552908,9.85735974 L13.2387106,9.85735974 L13.2387106,8.0413798 C13.2387106,7.21787946 13.4673587,6.65671009 14.648307,6.65671009 L16.1545034,6.65600395 L16.1545034,4.1120644 C15.8939378,4.07746355 14.9998941,4 13.95975,4 C11.788158,4 10.3015217,5.32549518 10.3015217,7.75977121 L10.3015217,9.85735974 L7.84549659,9.85735974 L7.84549659,12.7016912 L10.3015217,12.7016912 L10.3015217,20 L13.2387106,20 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Social/Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <g id="Color/Site-Grays/Light-Slate" mask="url(#mask-2)" fill="#9A9CAE">
+            <rect id="9A9CAE" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

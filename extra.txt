@@ -1,0 +1,136 @@
+                    <!-- <div class="change"><ul>
+                        <li>Engineer more</li>
+                        <li>Invent more</li>
+                        <li>Be more</li>
+                    </ul></div> -->
+                        
+                    /* .change{
+                        position: absolute;
+                        top: 46px;
+                        left: 10px;
+                        width: 500px;
+                        height: 65px;
+                        font-family: 'Gotham';
+                        font-size: 48px;
+                        line-height: 70px;
+                        color: #FFFFFF;
+                        overflow: hidden;
+                    }
+                    .change > ul{
+                        margin: 0;
+                        list-style: none;
+                        animation: animate 10s linear infinite;
+
+                    }
+                    .change li{
+                        margin-top: 0;
+
+                    } */
+
+                    
+                    
+                    <!-- <div class="slideshow-container">
+
+                        <div class="mySlides fade">
+                        <img src="assets/images/car1.png" style="width:100%">
+                        </div>
+                        
+                        <div class="mySlides fade">
+                        <img src="assets/images/car1.png" style="width:100%">
+                        </div>
+                        
+                        <div class="mySlides fade">
+                        <img src="assets/images/car1.png" style="width:100%">
+                        </div>
+
+                        <div class="mySlides fade">
+                            <img src="assets/images/car1.png" style="width:100%">
+                        </div>
+                        
+                        <div class="mySlides fade">
+                            <img src="assets/images/car1.png" style="width:100%">
+                        </div>
+
+                        <br>
+
+                        <div class="dot-container" style="text-align:center">
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                        </div>
+                            
+                    </div> -->
+
+                    /* Slideshow container */
+                    /* .slideshow-container {
+                        width: calc(100vw - 120px);
+                        position: absolute;
+                        top: 100px;
+                        margin: 0 50px 0 50px;
+                    }
+
+                    .slideshow-container  img {
+                        height: auto;
+                    }
+                    .dot-container{
+                        width: 100%;
+                        bottom: 50px;
+                        position: absolute;
+                        display: flex;
+                        justify-content: center;
+                    } */
+
+                    /* The dots/bullets/indicators */
+                    /* .dot {
+                        height: 8px;
+                        width: 8px;
+                        margin: 0 2px;
+                        background-color: rgb(58, 58, 58);
+                        border-radius: 50%;
+                        display: inline-block;
+                        transition: background-color 0.6s ease;
+                        margin: 3.5px;
+                    }
+
+                    .active {
+                        background-color: #ffffff;
+                    } */
+
+                    /* Fading animation */
+                    /* .fade {
+                        -webkit-animation-name: fade;
+                        -webkit-animation-duration: 1.5s;
+                        animation-name: fade;
+                        animation-duration: 1.5s;
+                    } */
+
+                    // var slideIndex = 0;
+                    // showSlides();
+                    // function showSlides() {
+                    // var i;
+                    // var slides = document.getElementsByClassName("mySlides");
+                    // var dots = document.getElementsByClassName("dot");
+                    // for (i = 0; i < slides.length; i++) {
+                    //     slides[i].style.display = "none"; 
+                    // }
+                    // slideIndex++;
+                    // if (slideIndex > slides.length) {slideIndex = 1}//  
+                    // for (i = 0; i < dots.length; i++) {
+                    //     dots[i].className = dots[i].className.replace(" active", "");
+                    // }
+                    // slides[slideIndex-1].style.display = "block";  
+                    // dots[slideIndex-1].className += " active";
+                    // setTimeout(showSlides, 2000); // Change image every 2 seconds
+                    // }
+
+
+                    <!-- <hr class="solid"> -->
+
+                    /* hr.solid {
+                        border-top: 1px solid #F5F6F8;
+                        width: 97vw;
+                        max-width: 1440px;
+                        margin: 20px auto;
+                    } */

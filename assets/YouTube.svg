@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Icon/Social/YouTube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.6238409,7.63112334 C21,9.04659962 21,12 21,12 C21,12 21,14.9532979 20.6238409,16.3689791 C20.4168409,17.1498786 19.8069886,17.7648843 19.032375,17.9737116 C17.6287841,18.3529412 12,18.3529412 12,18.3529412 C12,18.3529412 6.37121591,18.3529412 4.96752273,17.9737116 C4.19301136,17.7648843 3.58305682,17.1498786 3.37605682,16.3689791 C3,14.9532979 3,12 3,12 C3,12 3,9.04659962 3.37605682,7.63112334 C3.58305682,6.85012144 4.19301136,6.23511575 4.96752273,6.02639089 C6.37121591,5.64705882 12,5.64705882 12,5.64705882 C12,5.64705882 17.6287841,5.64705882 19.032375,6.02639089 C19.8069886,6.23511575 20.4168409,6.85012144 20.6238409,7.63112334 Z M10.2631261,14.6470588 L14.4984203,12.0001012 L10.2631261,9.35294118 L10.2631261,14.6470588 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Social/YouTube" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <g id="Color/Site-Grays/Light-Slate" mask="url(#mask-2)" fill="#9A9CAE">
+            <rect id="9A9CAE" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
